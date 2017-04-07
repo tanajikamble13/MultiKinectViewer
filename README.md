@@ -1,0 +1,3 @@
+# MultiKinectViewer
+
+Its rough code 
