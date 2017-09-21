@@ -1,3 +1,3 @@
 # MultiKinectViewer
 
-Its rough code 
+Its rough code by Rishi
